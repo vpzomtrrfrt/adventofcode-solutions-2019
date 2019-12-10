@@ -8,3 +8,4 @@ Languages used:
 - Day 1: Ada
 - Day 2: Bash
 - Day 3: Clojure
+- Day 4: D
