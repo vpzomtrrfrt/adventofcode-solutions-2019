@@ -9,3 +9,4 @@ Languages used:
 - Day 2: Bash
 - Day 3: Clojure
 - Day 4: D
+- Day 5: Elixir
